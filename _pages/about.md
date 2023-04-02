@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### About the lab
+## About the lab
 
 本实验室致力于研究RNA修饰/non-coding RNA的分子调控机制和相关生物功能。我们运用表观遗传学，分子生物学，结合高通量测序等多种技术手段来探索RNA修饰/ncRNA对于染色质结构和基因转录的新的调控机制，以及相关调控通路在胚胎干细胞分化，抗肿瘤免疫，癌症及衰老中的生物功能。 &#x20;
 
@@ -17,7 +17,7 @@ redirect_from:
 2.  研究细胞核内ncRNA降解过程的分子调控机制及相关生物功能； &#x20;
 3.  探究RNA表观遗传修饰对于生物大分子相变的相关调控机制及相应的生物功能。
 
-#### About the PI
+## About the PI
 
 **教育经历:**
 

@@ -22,10 +22,6 @@ We are actively looking for postdoc, graduate students, research assistants, and
   </div>
 </div>
 
-![](../images/image_JpEFFpqNnf.png)
-
-Jun Liu, PhD
-
 <div style="display:flex; flex-direction:row;">
   <div style="flex:1; padding:10px;">
     <img src="../images/image_JpEFFpqNnf.png" style="max-width:100%; height:auto;">

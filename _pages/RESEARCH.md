@@ -16,7 +16,7 @@ redirect_from:
 
 <div style="display:flex; flex-direction:row;">
   <div style="flex:1; padding:20px;">
-    <img src="../images\image___TuP-IWq1.png" style="max-width:100%; height:auto;">
+    <img src="../images/image___TuP-IWq1.png" style="max-width:100%; height:auto;">
     <p>Xiong X.#, James B#, Boix C#, et al., *In Revision, Cell*<br>Single-cell epigenomic dissection of Alzheimer's disease pinpoints causal genetic variants and reveals epigenome erosion.</p>
   </div>
   <div style="flex:1; padding:20px;">

@@ -11,7 +11,7 @@ redirect_from:
 
 ## Current Members
 
-We are actively looking for postdoc, graduate students, research assistants, and more! Please refer to [JOIN US](<../_pages/JOIN US.md> "JOIN US").
+We are actively looking for postdoc, graduate students, research assistants, and more! Please refer to [JOIN US](<../_pages/JOIN_US.md> "JOIN US").
 
 <div style="display: flex; justify-content: center;">
   <div style="width: 15%;padding:10px;">

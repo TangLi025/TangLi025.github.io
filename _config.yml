@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tang Li"
+title                    : "LiuJun Lab"
 title_separator          : "-"
-name                     : &name "Tang Li"
+name                     : &name "LiuJun Lab"
 description              : &description "PKU SKY"
 url                      : https://TangLi025.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tang Li"
-  avatar           : "profile.png"
-  bio              : "profile.png"
+  name             : "Liu Jun"
+  avatar           : "image_JpEFFpqNnf.png"
+  bio              : "PKU SKY"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

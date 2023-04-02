@@ -13,15 +13,15 @@ redirect_from:
 
 We are actively looking for postdoc, graduate students, research assistants, and more! Please refer to [JOIN US](<../JOIN US/JOIN US.md> "JOIN US").
 
-![](image/image_JpEFFpqNnf.png)
+![](image_JpEFFpqNnf.png)
 
 Jun Liu, PhD
 
-![](image/image_JpEFFpqNnf.png)
+![](image_JpEFFpqNnf.png)
 
 Jun Liu, PhD
 
-![](image/image_JpEFFpqNnf.png)
+![](image_JpEFFpqNnf.png)
 
 Jun Liu, PhD
 

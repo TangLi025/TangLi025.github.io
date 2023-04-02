@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "MENBERS"
-permalink: /MENBERS/
-author_profile: true
+title: "MEMBERS"
+permalink: /MEMBERS/
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -25,4 +25,4 @@ Jun Liu, PhD
 
 Jun Liu, PhD
 
-#### We hope you are the next one!&#x20;
+## We hope you are the next one!&#x20;

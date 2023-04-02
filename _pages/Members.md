@@ -13,16 +13,29 @@ redirect_from:
 
 We are actively looking for postdoc, graduate students, research assistants, and more! Please refer to [JOIN US](<../_pages/JOIN US.md> "JOIN US").
 
+<div style="display: flex; justify-content: center;">
+  <div style="width: 20%;">
+    <img src="../images/image_JpEFFpqNnf.png" style="max-width: 100%; height: auto;">
+  </div>
+  <div style="width: 40%;">
+    <p>Jun Liu, PhD</p>
+  </div>
+</div>
+
 ![](../images/image_JpEFFpqNnf.png)
 
 Jun Liu, PhD
 
-![](image_JpEFFpqNnf.png)
+<div style="display:flex; flex-direction:row;">
+  <div style="flex:1; padding:10px;">
+    <img src="../images/image_JpEFFpqNnf.png" style="max-width:100%; height:auto;">
+    <p>Jun Liu, PhD</p>
+  </div>
+  <div style="flex:1; padding:10px;">
+    <img src="../images/image_JpEFFpqNnf.png" style="max-width:100%; height:auto;">
+    <p>Jun Liu, PhD</p>
+  </div>
+</div>
 
-Jun Liu, PhD
-
-![](image_JpEFFpqNnf.png)
-
-Jun Liu, PhD
 
 ## We hope you are the next one!&#x20;

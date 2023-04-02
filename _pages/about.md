@@ -45,7 +45,7 @@ redirect_from:
 
 We are actively hiring Postdocs, Research assistants, and more!
 
-[JOIN US](<../_pages/JOIN_US.md> "JOIN US")
+[JOIN US](<../JOIN_US/> "JOIN US")
 
 ## We are hiring! Join us!
 

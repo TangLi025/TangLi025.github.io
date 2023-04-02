@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**Research interest:**
+## Research interest:
 
 1.  m6A
 2.  pseudoU
@@ -17,11 +17,13 @@ redirect_from:
 <div style="display:flex; flex-direction:row;">
   <div style="flex:1; padding:20px;">
     <img src="../images/image___TuP-IWq1.png" style="max-width:100%; height:auto;">
-    <p>Xiong X.#, James B#, Boix C#, et al., *In Revision, Cell*<br>Single-cell epigenomic dissection of Alzheimer's disease pinpoints causal genetic variants and reveals epigenome erosion.</p>
+    <p>Xiong X.#, James B#, Boix C#, et al., <i>In Revision, Cell</i><br>
+    Single-cell epigenomic dissection of Alzheimer's disease pinpoints causal genetic variants and reveals epigenome erosion.</p>
   </div>
   <div style="flex:1; padding:20px;">
     <img src="../images/image_p_2iGODlOJ.png" style="max-width:100%; height:auto;">
-    <p>Xiong X#, Hou L#, et al., *Nat Genet, 2021*<br>Genetic drivers of m6A methylation in human brain, lung, heart and muscle, and their contributions to disease heritability</p>
+    <p>Xiong X#, Hou L#, et al., <i>Nat Genet, 2021</i><br>
+    Genetic drivers of m6A methylation in human brain, lung, heart and muscle, and their contributions to disease heritability</p>
   </div>
 </div>
 

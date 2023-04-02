@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JOIN_US"
+title: "JOIN US"
 permalink: /JOIN_US/
 author_profile: true
 redirect_from:
@@ -27,8 +27,9 @@ We are very serious and responsible to train our students, to provide enough gui
 
 ### Research assistants
 
-If you haven't made your decision about your next adventure, you are        welcome to have a taste on how scientific research works! We will do        our best to support your career!
+If you haven't made your decision about your next adventure, you are welcome to have a taste on how scientific research works! We will do our best to support your career!
 
 ### How to apply
 
-Please email us at [junliu1223@pku.edu.cn](mailto:junliu1223@pku.edu.cn "junliu1223@pku.edu.cn") along with your 1) CV describing your education, research, publication etc; 2) a cover letter describing your research background and research interest.For Chinese version of information: [中文版招聘启事](https://mp.weixin.qq.com/s/FLbDkuXuoVa2sqwr-dRatQ "中文版招聘启事")
+Please email us at [junliu1223@pku.edu.cn](mailto:junliu1223@pku.edu.cn "junliu1223@pku.edu.cn") along with your 1) CV describing your education, research, publication etc; 2) a cover letter describing your research background and research interest.
+For Chinese version of information: [中文版招聘启事](https://mp.weixin.qq.com/s/FLbDkuXuoVa2sqwr-dRatQ "中文版招聘启事")

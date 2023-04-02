@@ -22,34 +22,31 @@ redirect_from:
 **教育经历:**
 
 2010-2015，理学博士，化学生物学，北京大学 &#x20;
+
 2006-2010，理学学士，化学，北京大学 &#x20;
 
 **工作经历:**
 
 2020.9-至今，研究员，北大清华生命科学联合中心 &#x20;
+
 2020.9-至今，研究员，北京大学生命科学学院 &#x20;
+
 2015.11-2020.8，博士后，芝加哥大学化学系 &#x20;
 
 **荣誉奖励:**
 
-北京大学博雅青年学者，2022 &#x20;
-億方学者，2021 &#x20;
+北京大学博雅青年学者，2022
+
+億方学者，2021
+
 北京市科技新星，2021
 
-#### News
-
-Xiong Lab is here at ZJU!
-
-[NEWS](../NEWS/NEWS.md "NEWS")
-
-#### Multiple positions available!
+## Multiple positions available!
 
 We are actively hiring Postdocs, Research assistants, and more!
 
-[JOIN US](<../JOIN US/JOIN US.md> "JOIN US")
+[JOIN US](<../_pages/JOIN US.md> "JOIN US")
 
 ## We are hiring! Join us!
 
 Postdocs, Research Assistants, Students, Lab Managers are welcome!
-
-[JOIN US](<../JOIN US/JOIN US.md> "JOIN US")

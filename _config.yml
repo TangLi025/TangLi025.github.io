@@ -15,7 +15,7 @@ url                      : https://TangLi025.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TangLi025/TangLi025.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-logo                     : "logo/pku_88x88.png" # logo before site title "88x88.png"
+logo                     : "../images/logo/pku_88x88.png" # logo before site title "88x88.png"
 search                   :  # true, false
 breadcrumbs              : false # true, false (default)
 lunr:

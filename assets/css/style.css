@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .highlight .c {
   color: #998;
   font-style: italic;
@@ -211,7 +212,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Segoe UI Emoji", "Segoe UI Symbol", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif;
   color: #111111;
-  background-color: #fdfdfd;
+  background-color: #fcfaf5;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -448,7 +449,7 @@ table td {
 
 .site-title {
   font-size: 1.625rem;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -466,7 +467,7 @@ table td {
   position: absolute;
   top: 9px;
   right: 15px;
-  background-color: #fdfdfd;
+  background-color: #fcfaf5;
   border: 1px solid #e8e8e8;
   border-radius: 5px;
   text-align: right;
@@ -543,6 +544,7 @@ table td {
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
+  background-color: #494949;
 }
 
 .footer-heading {
@@ -569,6 +571,7 @@ table td {
 
 .footer-col {
   margin-bottom: 15px;
+  color: #d8d8d8;
 }
 
 .footer-col-1,
@@ -757,8 +760,61 @@ table td {
 
 .foot_link {
   text-decoration: none;
-  color: #666666;
+  color: #d8d8d8;
   line-height: 2em;
+}
+
+/* Change visited link color to match normal link color */
+.foot_link:visited {
+  color: #d8d8d8;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  max-width: 100%;
+  align-self: center;
+}
+
+.card {
+  display: flex; /* 添加这一行 */
+  flex-direction: column;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 22%;
+  margin: 10px;
+  justify-content: center;
+  transition: 0.3s;
+  align-items: center;
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: 45%; /* 在宽度小于或等于 768px 的屏幕上设置卡片宽度为 45%，以适应较窄的设备 */
+  }
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 90%; /* 设置图片宽度 */
+  height: auto; /* 设置图片高度 */
+  object-fit: cover; /* 保持图片纵横比 */
+}
+
+.card-container {
+  padding: 4px;
+  text-align: center;
+  line-height: 1; /* 设置文字行距 */
+}
+
+.join_card {
+  display: flex; /* 添加这一行 */
+  flex-direction: column;
+  width: 48%;
+  margin: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */

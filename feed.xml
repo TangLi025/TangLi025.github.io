@@ -1,17 +1,371 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:9898/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:9898/" rel="alternate" type="text/html" /><updated>2023-04-22T23:10:16+08:00</updated><id>http://localhost:9898/feed.xml</id><title type="html">Liulab@PKU</title><subtitle>PKU SKY</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:9898/jekyll/update/2023/04/05/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-04-05T17:04:43+08:00</published><updated>2023-04-05T17:04:43+08:00</updated><id>http://localhost:9898/jekyll/update/2023/04/05/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:9898/jekyll/update/2023/04/05/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:9898/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:9898/" rel="alternate" type="text/html" /><updated>2023-11-20T22:36:55+08:00</updated><id>http://localhost:9898/feed.xml</id><title type="html">Welcome to Liu Lab!</title><subtitle>Explore RNA&apos;s mysteries in health and disease</subtitle><entry><title type="html">Photo wall</title><link href="http://localhost:9898/blog/photos" rel="alternate" type="text/html" title="Photo wall" /><published>2023-11-20T00:00:00+08:00</published><updated>2023-11-20T00:00:00+08:00</updated><id>http://localhost:9898/blog/photos</id><content type="html" xml:base="http://localhost:9898/blog/photos"><![CDATA[<div id="photo-wall">
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161920.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161954.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161840.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161951.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161956.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120162208.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161921.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120160723.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161843.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161932.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161943.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161907.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/202311201619101.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161922.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161936.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161850.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161916.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161908.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161926.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161939.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161944.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161930.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161906.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120162209.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161933.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161910.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161947.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161845.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120162204.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120162000.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161844.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161849.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161928.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161937.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161942.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161838.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161848.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161924.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161950.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161909.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161911.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161644.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161935.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161925.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/202311201619511.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161842.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161918.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161929.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161746.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161931.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161949.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120162004.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161952.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/3year.jpg" alt="Photo description" />
+        </div>
+    
+        <div class="photo">
+            <img src="../assets/images/photos/20231120161940.jpg" alt="Photo description" />
+        </div>
+    
+</div>]]></content><author><name></name></author><category term="photos" /><summary type="html"><![CDATA[Jekyll is a static site generator. You give it text written in your favorite markup language and it uses layouts to create a static website.]]></summary></entry><entry><title type="html">Sample Post</title><link href="http://localhost:9898/blog/sample-post" rel="alternate" type="text/html" title="Sample Post" /><published>2020-04-24T00:00:00+08:00</published><updated>2020-04-24T00:00:00+08:00</updated><id>http://localhost:9898/blog/sample-post</id><content type="html" xml:base="http://localhost:9898/blog/sample-post"><![CDATA[<p>This post will show you how the content will look like in the post pages and how the headlines, quotes and quotes will be represented. Jekyll is mainly used to write simple markdown and after that it renders out a static pages, so you need to know the basics of writing markdown for that.
+For more information about writing markdown you can checkout the following markdown cheatsheets:</p>
+<ul>
+  <li><a href="https://guides.github.com/features/mastering-markdown/">Mastering Markdown</a></li>
+  <li><a href="https://www.markdownguide.org/cheat-sheet/">Markdown Guide</a></li>
+  <li><a href="https://github.github.com/gfm/">GitHub Flavored Markdown Spec</a></li>
+</ul>
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+<hr />
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+<h1 id="this-is-the-h1-text">This is the h1 text</h1>
+<h2 id="this-is-the-h2-text">This is the h2 text</h2>
+<h3 id="this-is-the-h3-text">This is the h3 text</h3>
+<h4 id="this-is-the-h4-text">This is the h4 text</h4>
+<h5 id="this-is-the-h5-text">This is the h5 text</h5>
+<h6 id="this-is-the-h6-text">This is the h6 text</h6>
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+<p><strong>Bold Text in the post will look like:</strong><br />
+<strong>This text is Bold</strong></p>
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+<p><strong>Italic Text in the post will look like:</strong><br />
+<em>This text is Italic</em></p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+<blockquote>
+  <p>Quotes on your post will look like this</p>
+</blockquote>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p><code class="language-plaintext highlighter-rouge">Codes on your post will look like this</code></p>
+
+<p><strong>Link in the post will look like:</strong><br />
+<a href="#">This is a link</a></p>
+
+<p><strong>Bullet list in the post will look like:</strong></p>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <li>Item 4</li>
+  <li>Item 5</li>
+</ul>
+
+<p><strong>Number list in the post will look like:</strong></p>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+  <li>Item 4</li>
+  <li>Item 5</li>
+</ol>
+
+<p><strong>Images in the post will look like:</strong><br />
+<img src="/WhatATheme/assets/images/1280x720%20Placeholder.png" alt="Test Image" /></p>
+
+<p><strong>Normal text in the post will look like</strong><br />
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris id finibus nisl. Etiam in hendrerit est. Nulla non erat ac lectus interdum lobortis. Vestibulum at mi ex. Mauris nisl mi, venenatis et feugiat nec, finibus porttitor velit. Suspendisse tincidunt lobortis leo, quis tristique tellus iaculis quis. Donec eleifend pulvinar gravida. Proin non lorem eros. Donec sit amet finibus ex, eget vestibulum nunc. Ut ut enim id purus porttitor tristique. Vivamus tincidunt eleifend hendrerit. Proin metus felis, ultrices vel dui in, porta dapibus dui. Sed sagittis ex vitae dui tristique dignissim. Cras vel leo ipsum.</p>
+
+<p>Aenean ac neque et risus mattis accumsan. Sed ac tellus molestie, lacinia ante sit amet, convallis felis. Maecenas aliquet lectus nec euismod auctor. Donec finibus pellentesque tortor, ac efficitur metus suscipit non. Proin diam orci, blandit quis malesuada ac, efficitur a nisl. Mauris eleifend consequat blandit. Sed egestas quam et orci gravida, non euismod metus scelerisque. Curabitur venenatis pellentesque erat commodo pharetra. Fusce id ante nec ipsum fringilla auctor. In justo quam, feugiat placerat eleifend dapibus, luctus et quam. Fusce facilisis erat ut odio convallis viverra et id mauris. Sed vehicula tempus consectetur. Aliquam pharetra, purus non egestas tristique, tellus massa fringilla est, id sagittis tellus urna non mauris. Suspendisse fringilla, velit nec blandit facilisis, ligula ante imperdiet est, et placerat magna sem quis tortor.</p>
+
+<p>Vestibulum vitae fermentum velit, rhoncus egestas orci. Nulla at purus ut orci posuere vulputate. In eget leo diam. In congue in diam nec elementum. Suspendisse fringilla ante nulla, eu tristique orci ultrices eget. Aenean non lorem tellus. Vestibulum tempor metus sit amet tellus feugiat, sit amet consequat lacus ultricies.</p>
+
+<p>Donec imperdiet, lectus eget congue cursus, dolor enim finibus risus, ut molestie lorem tellus non tortor. Donec quam nibh, molestie in dapibus et, efficitur non tortor. Morbi orci tellus, mollis vel mi vitae, auctor lobortis erat. Ut gravida velit eget ligula lacinia, id rhoncus tellus gravida. Maecenas laoreet rutrum consequat. Suspendisse sed nibh dui. Curabitur dictum euismod mollis. Sed egestas libero libero, eu accumsan augue placerat non. Nunc id condimentum orci. Mauris vitae sollicitudin quam.</p>
+
+<p><strong>Giphy Gifs will look like:</strong><br /></p>
+<iframe src="https://giphy.com/embed/ZqlvCTNHpqrio" width="480" height="259" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
+<p><a href="https://giphy.com/gifs/laughing-despicable-me-minions-ZqlvCTNHpqrio">via GIPHY</a></p>
+
+<p><strong>YouTUbe Videos will look like:</strong><br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>]]></content><author><name></name></author><category term="sample" /><category term="post" /><category term="test" /><summary type="html"><![CDATA[A sample post to show how the content will look and how will different headlines, quotes and codes will be represented.]]></summary></entry><entry><title type="html">How to Install and use WhatATheme?</title><link href="http://localhost:9898/blog/how-to-install-whatatheme" rel="alternate" type="text/html" title="How to Install and use WhatATheme?" /><published>2020-04-22T00:00:00+08:00</published><updated>2020-04-22T00:00:00+08:00</updated><id>http://localhost:9898/blog/how-to-install-whatatheme</id><content type="html" xml:base="http://localhost:9898/blog/how-to-install-whatatheme"><![CDATA[<h1 id="what-is-whatatheme">What is WhatATheme?</h1>
+<blockquote>
+  <p>You’ll find this post in your <strong><em>_posts</em></strong> directory. Go ahead and edit it and re-build the site to see your changes. &gt;You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+</blockquote>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<hr />
+
+<p><strong>WhatATheme</strong> is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio which includes</p>
+
+<h3 id="home-page--">Home Page -</h3>
+<ul>
+  <li>A Hero section - A section where you can outsource an image which will work as the background for the particular section; it also will include your name and a tagline which can be easily manipulated via the _config.yml file.</li>
+  <li>An About section - A section where you can include your image and a 60 word paragraph which again you can easily manipulate using the _config.yml file.</li>
+  <li>A Contact section - A section where you can include 3 direct ways to contact<br />
+<code class="language-plaintext highlighter-rouge">Ping on Messenger</code><br />
+<code class="language-plaintext highlighter-rouge">Send an Email</code><br />
+<code class="language-plaintext highlighter-rouge">Tweet on Twitter</code><br />
+The contact section will also include 10 different social media buttons for your audience to follow.<br />
+<code class="language-plaintext highlighter-rouge">Facebook</code>, <code class="language-plaintext highlighter-rouge">Twitter</code>, <code class="language-plaintext highlighter-rouge">Instagram</code>, <code class="language-plaintext highlighter-rouge">LinkedIn</code>, <code class="language-plaintext highlighter-rouge">GitHub</code>, <code class="language-plaintext highlighter-rouge">YouTube</code>, <code class="language-plaintext highlighter-rouge">Reddit</code>, <code class="language-plaintext highlighter-rouge">Behance</code>, <code class="language-plaintext highlighter-rouge">Dribbble</code> &amp; <code class="language-plaintext highlighter-rouge">Spotify</code>.</li>
+</ul>
+
+<h3 id="blog--">Blog -</h3>
+<p>The blog includes a horizontal card list where the latest articles are fetched from the _posts folder automatically in top-down format. It also includes an instant search box which matches your query from the title, description &amp; content of your post and shows the result as soon as you type.<br />
+The blog card includes</p>
+<ul>
+  <li>Post Title</li>
+  <li>300 words from the content of the post</li>
+  <li>The publish date</li>
+  <li>The time which will be required to read the post.</li>
+</ul>
+
+<h3 id="projects--">Projects -</h3>
+<p>The Projects page will include all the projects from the <strong><code class="language-plaintext highlighter-rouge">projects.yml</code></strong> file which is present in the _data folder.<br />
+Projects will be showcased in a card-list format where each card will contain</p>
+<ul>
+  <li>An image related to the project</li>
+  <li>A Project Title</li>
+  <li>A Project Description of about 80 words</li>
+</ul>
+
+<h3 id="footer--">Footer -</h3>
+<p>The footer includes</p>
+<ul>
+  <li>A small about the author widget which show the same <code class="language-plaintext highlighter-rouge">Author Image</code> as mentioned in the about section of the Home page which includes <code class="language-plaintext highlighter-rouge">Name of the Author</code>, <code class="language-plaintext highlighter-rouge">Around 75 words about the author</code>.</li>
+  <li>A more link widget which includes a link to any extra page that you’ve created and a <code class="language-plaintext highlighter-rouge">Subscribe via RSS</code> link.</li>
+  <li>A Recent posts widget which will include latest 3 posts.</li>
+</ul>
+
+<h4 id="extra-features--">Extra Features -</h4>
+<p>WhatATheme comes pre installed with</p>
+<ul>
+  <li><strong>HTML Compressor</strong> - It’ll compress all the pages by removing any extra space or blank lines.</li>
+  <li><strong>Google Analytics</strong> - A web analytics service offered by Google that tracks and reports website traffic. For more information <a href="https://analytics.google.com" target="blank">click here</a>.</li>
+  <li>
+    <p><strong>Disqus</strong> - A worldwide blog comment hosting service for web sites and online communities that use a networked platform. For more information about Disqus <a href="https://help.disqus.com/en/articles/1717053-what-is-disqus" target="blank">click here</a></p>
+
+    <p>##### For more information about WhatATheme <a href="https://github.com/thedevslot/WhatATheme/blob/gh-pages/README.md" target="blank">click here</a>.</p>
+  </li>
+</ul>
+
+<hr />
+
+<h1 id="installation">Installation</h1>
+<h3 id="step-1---setting-up-whatatheme">Step 1 - Setting up WhatATheme</h3>
+<blockquote>
+  <ul>
+    <li>Fork the <a href="https://github.com/thedevslot/WhatATheme/tree/master" target="blankl">repository</a></li>
+    <li>Go to repository settings and set Github Pages source as master.</li>
+    <li>Your new site should be ready at <a href="#" target="blank">https://username.github.io/WhatATheme/</a></li>
+  </ul>
+</blockquote>
+
+<h3 id="step-2---making-changes-via-_configyml">Step 2 - Making changes via <strong>_config.yml</strong></h3>
+<blockquote>
+  <ul>
+    <li>Open _config.yml file</li>
+    <li>Fill the available details accordingly</li>
+    <li>Commit the changes</li>
+  </ul>
+</blockquote>]]></content><author><name></name></author><category term="how to" /><category term="setup" /><category term="theme" /><summary type="html"><![CDATA[This post will guide you to install WhatATheme on your Jekyll site, follow the easy steps to set up WhatATheme.]]></summary></entry></feed>

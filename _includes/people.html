@@ -1,0 +1,109 @@
+<section class="hero is-fullheight has-text-centered" id="people">
+    <div class="hero-body">
+        <div class="container">
+            <h3 class="custom-font-size custom-font-weight">Lab Manager</h3>
+            <hr class="people-hr">
+            <div id="lab-manager">
+                {% for member in site.data.lab_manager %}
+                <div class="columns photo-row"> <!-- 每个成员占据半行宽度 -->
+                        <div class="column is-4 "> <!-- 图像占2份 -->
+                            <img class="is-square is-1by1" src="{{ member.image }}" alt="{{ site.author-name }}">
+                        </div>
+                        <div class="column is-7"> <!-- 文本占3份 -->
+                            <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                                <h3 class="custom-font-size-name custom-font-weight">{{ member.name }} </h3>
+                                <p>{{ member.title }} </p>
+                                <p>{{ member.description }}</p>
+                            </div>
+                        </div>
+                    
+                </div>
+                {% endfor %}
+            </div>
+
+            <h3 class="custom-font-size custom-font-weight">Faculty</h3>
+            <hr class="people-hr">
+            <div id="peoples">
+                {% for member in site.data.faculty %}
+                <div class="photo"> <!-- 每个成员占据半行宽度 -->
+                        <div class="column is-5 "> <!-- 图像占2份 -->
+                                <img class="is-square is-1by1" src="{{ member.image }}" alt="{{ site.author-name }}">
+                        </div>
+                        <div class="column is-7"> <!-- 文本占3份 -->
+                            <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                                <h3 class="custom-font-size-name custom-font-weight">{{ member.name }} </h3>
+                                <p>{{ member.title }} </p>
+                                <p>{{ member.description }}</p>
+                            </div>
+                        </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <h3 class="custom-font-size custom-font-weight">PhD Student</h3>
+            <hr class="people-hr">
+            <div id="peoples">
+                {% for member in site.data.PhD_student %}
+                <div class="photo"> <!-- 每个成员占据半行宽度 -->
+                    <div class="column is-5 "> <!-- 图像占2份 -->
+                        <img class="is-square is-1by1" src="{{ member.image }}" alt="{{ site.author-name }}">
+                    </div>
+                        <div class="column is-7"> <!-- 文本占3份 -->
+                            <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                                <h3 class="custom-font-size-name custom-font-weight">{{ member.name }} </h3>
+                                <p>{{ member.title }} </p>
+                                <p>{{ member.description }}</p>
+                            </div>
+                        </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <h3 class="custom-font-size custom-font-weight">Technician</h3>
+            <hr class="people-hr">
+            <div id="peoples">
+                {% for member in site.data.technician %}
+                <div class="photo"> <!-- 每个成员占据半行宽度 -->
+                    <div class="column is-5 "> <!-- 图像占2份 -->
+                        <img class="is-square is-1by1" src="{{ member.image }}" alt="{{ site.author-name }}">
+                    </div>
+                        <div class="column is-7"> <!-- 文本占3份 -->
+                            <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                                <h3 class="custom-font-size-name custom-font-weight">{{ member.name }} </h3>
+                                <p>{{ member.title }} </p>
+                                <p>{{ member.description }}</p>
+                            </div>
+                        </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <h3 class="custom-font-size custom-font-weight">Untergraduate Student</h3>
+            <hr class="people-hr">
+            <div id="peoples">
+                {% for member in site.data.peoples %}
+                <div class="photo"> <!-- 每个成员占据半行宽度 -->
+                    <div class="column is-5 " style="padding:0px"> <!-- 图像占2份 -->
+                        <img class="is-square is-1by1" src="{{ member.image }}" alt="{{ site.author-name }}">
+                    </div>
+                    <div class="column is-7"> <!-- 文本占3份 -->
+                        <div class="has-text-left-desktop has-text-left-tablet has-text-left-fullhd has-text-left-widescreen">
+                            <h2 class="custom-font-size-name custom-font-weight">{{ member.name }} </h3>
+                            <p>{{ member.title }} </p>
+                            <p>{{ member.description }}</p>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+
+            <h3 class="custom-font-size custom-font-weight">Alumni</h3>
+            <hr class="people-hr">
+
+            ...
+
+
+</div>
+            
+</div>
+</section>

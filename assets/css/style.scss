@@ -95,6 +95,37 @@ a.navbar-item.is-active {
 
 }
 
+#research {
+    .image {
+        max-width: 20vmax;
+        margin: auto;
+
+        img {
+            border: 0.25rem dotted black;
+        }
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+    a {
+        min-width: 25vmax;
+        margin: 0.5rem;
+    }
+    .custom-font-size {
+        font-size: 20px;
+    }
+    .custom-font-size-name {
+        font-size: 25px;
+    }
+    .custom-font-weight {
+        /* 加粗 */
+        font-weight: bold;
+    }
+
+}
+
 #people {
     .image {
         max-width: 20vmax;
@@ -121,6 +152,14 @@ a.navbar-item.is-active {
         font-weight: bold;
     }
 
+}
+
+.people-hr {
+    border: none;       /* 移除默认边框 */
+    height: 2px;        /* 设置线的高度，即粗细 */
+    width: 90%;
+    background-color: #868282; /* 设置线的颜色 */
+    margin: 0px auto 30px;     /* 添加一些垂直外边距 */
 }
 
 #contact {
@@ -416,25 +455,27 @@ a.navbar-item.is-active {
     -moz-column-gap: 10px;
     -webkit-column-gap: 10px;
     column-gap: 10px;
+
+    .photo {
+        margin-bottom: 10px;
+        break-inside: avoid; /* 避免在元素内部断开 */
+        /* 新增的居中样式 */
+        display: flex;
+        justify-content: center;
+        transition: transform 0.2s; /* 动画效果 */
+    }
+    
+    .photo img {
+        width: 100%; /* 图片宽度 */
+        height: auto; /* 图片高度自动 */
+        border-radius: 10px; /* 图片边角圆润 */
+    }
+    .photo:hover {
+        transform: scale(1.01); /* 鼠标悬浮时图片放大 */
+    }
 }
 
-.photo {
-    margin-bottom: 10px;
-    break-inside: avoid; /* 避免在元素内部断开 */
-    /* 新增的居中样式 */
-    display: flex;
-    justify-content: center;
-    transition: transform 0.2s; /* 动画效果 */
-}
 
-.photo img {
-    width: 100%; /* 图片宽度 */
-    height: auto; /* 图片高度自动 */
-    border-radius: 10px; /* 图片边角圆润 */
-}
-.photo:hover {
-    transform: scale(1.01); /* 鼠标悬浮时图片放大 */
-}
 
 #peoples {
     display: flex;
@@ -471,10 +512,28 @@ a.navbar-item.is-active {
 
 }
 
-.people-hr {
-    border: none;       /* 移除默认边框 */
-    height: 2px;        /* 设置线的高度，即粗细 */
-    width: 90%;
-    background-color: #868282; /* 设置线的颜色 */
-    margin: 0px auto 30px;     /* 添加一些垂直外边距 */
+#former-members-photo {
+    display: flex;
+    flex-wrap: wrap;
+
+    .photo {
+        display: flex;
+        justify-content: center;
+        width: 33%; /* 每个成员占据一半宽度 */
+        margin-bottom: 0px;
+        transition: transform 0.2s; /* 动画效果 */
+
+        break-inside: avoid; /* 避免在元素内部断开 */
+    }
+    
+    .photo img {
+        width: 100%; /* 图片宽度 */
+        height: auto; /* 图片高度自动 */
+        border-radius: 10px; /* 图片边角圆润 */
+    }
+}
+
+#former-members {
+    display: flex;
+    
 }
